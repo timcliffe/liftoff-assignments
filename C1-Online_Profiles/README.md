@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
 
 ### GitHub
-Provide a link to your GitHub account here.
+[Github Account](https://github.com/timcliffe)
 
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[LinkedIn](https://www.linkedin.com/in/timothy-cliffe-216b59130/)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
+[Resume](https://github.com/timcliffe/liftoff-assignments/blob/master/Tech%20Resume%202018%20(2).pdf)
