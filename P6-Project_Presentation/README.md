@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+[Presentation](https://github.com/timcliffe/liftoff-assignments/blob/master/DC7%20Statistics%20Manager.pdf)
